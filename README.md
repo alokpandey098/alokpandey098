@@ -21,6 +21,8 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40" alt="Python logo"  />
   <img width="12" />
+  <img src=https://cdn.worldvectorlogo.com/logos/numpy-1.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/2560px-TensorFlow_logo.svg.png" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" height="40" alt="pytorch logo"  />
