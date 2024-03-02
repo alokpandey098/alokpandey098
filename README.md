@@ -38,10 +38,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" height="40" alt="pandas logo"  />
 </div>
 
-###
+## **STREAK STATS**
+<p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=alokpandey098&theme=dark&hide_border=true'>
+</p>
 
-<!-- <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
 
 ###
