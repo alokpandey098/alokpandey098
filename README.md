@@ -18,7 +18,7 @@
 
 - 👨‍💻 Completed **MTA Python Programming certificates and Full Stack Data Science certificates.** 
 
-- ⚡ Fun fact is am **I write Code ,I Am Coder !**
+- ⚡ Fun fact is **I write Code ,I Am Coder !**
 
 ###
 
