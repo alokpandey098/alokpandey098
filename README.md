@@ -2,15 +2,23 @@
 
 ###
 
-<p align="left">My name is Alok Kumar and I'm a AI/ML Engineer, from India</p>
+- <p align="left">My name is Alok Kumar and I'm a AI/ML Engineer, from India</p>
 
 ###
 
-<h2 align="left">About me</h2>
+- <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently Completed Data Science<br>🎯 Goals: Data Scientist<br>🎲 Fun fact: I write code ,I am coder !</p>
+- 🔭 I’m currently looking for **Machine Learning Internship.**
+
+- 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC), PyTorch.**
+
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/Shivan118)
+
+- 👨‍💻 Completed **MTA Python Programming certificates and Full Stack Data Science certificates.** 
+
+- ⚡ Fun fact is am **I write Code ,I Am Coder !**
 
 ###
 
@@ -43,5 +51,12 @@
     <img src='https://github-readme-streak-stats.herokuapp.com?user=alokpandey098&theme=dark&hide_border=true'>
 </p>
 
+## **CONNECT WITH ME**:
+<p align="left">
+<a href = "www.linkedin.com/in/alok-kumar-11075b252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://www.instagram.com/alokdyuraj087/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href='https://www.instagram.com/alokdyuraj087/'>
+<br>
+</a>
 
 ###
