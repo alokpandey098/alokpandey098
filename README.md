@@ -2,7 +2,7 @@
 
 ###
 
-- My name is **Alok Kumar** and I'm a **AI/ML Engineer**, from **India .**
+- My name is **Alok Kumar** and I'm a **Data Analyst**, from **India .**
 
 ###
 
