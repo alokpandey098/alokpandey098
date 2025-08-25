@@ -10,15 +10,15 @@
 
 ###
 
-- 🔭 I’m currently looking for **Machine Learning Internship.**
+- 🔭 I’m currently looking for **Data Analyst Internship.**
 
-- 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC), PyTorch.**
+- 🌱 I’m currently working on **PostgreSQL,Mysql,PowerBI,Advance Excel,Python,Numpy,Pandas,Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC), PyTorch.**
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/alokpandey098?tab=repositories)
 
 - 👨‍💻 Completed **MTA Python Programming certificates and Full Stack Data Science certificates.** 
 
-- ⚡ Fun fact is **I write Code ,I Am Coder !**
+- ⚡ Fun fact is **I’m not unemployed, I’m on a job-hunting adventure !**
 
 ###
 
