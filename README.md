@@ -51,9 +51,16 @@
 <br/>
 
 ## **STREAK STATS**
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=alokpandey098&theme=dark&hide_border=true'>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alokpandey098&theme=dark&hide_border=true" alt="Alok's GitHub Streak"/>
 </p>
+
+## **GITHUB STATS**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokpandey098&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpandey098&layout=compact&theme=dark&hide_border=true" />
+</p>
+
 
 ## **CONNECT WITH ME**:
 <p align="left">
