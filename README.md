@@ -44,7 +44,7 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alokpandey098&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6C00&ring=00BFFF&currStreakNum=FFFFFF&currStreakLabel=00BFFF&v=2" alt="Alok's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=alokpandey098&theme=dark&hide_border=true&fire=FF6C00&ring=00BFFF&currStreakNum=FFFFFF&currStreakLabel=00BFFF&v=2" alt="Alok's GitHub Streak"/>
 </p>
 
 ---
